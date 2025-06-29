@@ -14,19 +14,6 @@ Carlos Freitas Almeida is a graduate student in Psychology at Penn State.
 :::
 ::::
 
-## Carrie Brown
-
-:::: {.columns}
-::: {.column width=40%}
-![](include/img/brown-carrie.jpg){width=200px height=200px}
-:::
-::: {.column width=60%}
-Carrie Brown is Client Support Lead with the [Institute for Computational & Data Science (ICDS)](https://icds.psu.edu).
-
-carrie.brown@psu.edu
-:::
-::::
-
 ## Bruce Desmarais
 
 :::: {.columns}
@@ -98,17 +85,6 @@ nfl5182@psu.edu
 :::
 ::::
 
-## Valerie Li {-}
-
-:::: {.columns}
-::: {.column width=40%}
-![](include/img/li-avatar.jpg){width=200px height=200px} 
-:::
-::: {.column width=60%}
-Valerie Li is a graduate student in Political Science and Social Data Analytics at Penn State University. Her major area of study is Comparative Politics, with a minor area of study in Methodology. She received her B.A. in Political Science from McGill University. Her research interests are contentious politics and authoritarian politics.
-:::
-::::
-
 ## Sarah Rajtmajer {-}
 
 :::: {.columns}
@@ -132,19 +108,6 @@ smr48@psu.edu
 Jennifer Valcin is a Statistical Data Analyst at the Penn State University Libraries. Dr. Valcin conducts individual consultations, workshops, and small group trainings to support researchers in the PSU community with data analysis planning and quantitative statistical methods using various software. Prior to joining Penn State University Libraries, she received her Ph.D. in Biomedical Sciences with a focus in Genetics, Genomics, and Bioinformatics from the University of Alabama at Birmingham. 
 
 jpv5319@psu.edu
-:::
-::::
-
-## John West
-
-:::: {.columns}
-::: {.column width=50%}
-![](include/img/west-john.jpg){width=200px height=200px}
-:::
-::: {.column width=50%}
-John West is a postdoctoral researcher in the Department of Psychology.
-
-johnwest@psu.edu
 :::
 ::::
 
